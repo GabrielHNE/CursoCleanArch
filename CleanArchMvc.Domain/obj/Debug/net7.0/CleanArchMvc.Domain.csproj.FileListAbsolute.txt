@@ -10,3 +10,15 @@ E:\Personal\CursoCleanArqvc\CleanArchMvc.Domain\obj\Debug\net7.0\CleanArchMvc.Do
 E:\Personal\CursoCleanArqvc\CleanArchMvc.Domain\obj\Debug\net7.0\refint\CleanArchMvc.Domain.dll
 E:\Personal\CursoCleanArqvc\CleanArchMvc.Domain\obj\Debug\net7.0\CleanArchMvc.Domain.pdb
 E:\Personal\CursoCleanArqvc\CleanArchMvc.Domain\obj\Debug\net7.0\ref\CleanArchMvc.Domain.dll
+C:\Users\gab_g\Documents\Projetos\CursoCleanArch\CleanArchMvc.Domain\bin\Debug\net7.0\CleanArchMvc.Domain.deps.json
+C:\Users\gab_g\Documents\Projetos\CursoCleanArch\CleanArchMvc.Domain\bin\Debug\net7.0\CleanArchMvc.Domain.dll
+C:\Users\gab_g\Documents\Projetos\CursoCleanArch\CleanArchMvc.Domain\bin\Debug\net7.0\CleanArchMvc.Domain.pdb
+C:\Users\gab_g\Documents\Projetos\CursoCleanArch\CleanArchMvc.Domain\obj\Debug\net7.0\CleanArchMvc.Domain.csproj.AssemblyReference.cache
+C:\Users\gab_g\Documents\Projetos\CursoCleanArch\CleanArchMvc.Domain\obj\Debug\net7.0\CleanArchMvc.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gab_g\Documents\Projetos\CursoCleanArch\CleanArchMvc.Domain\obj\Debug\net7.0\CleanArchMvc.Domain.AssemblyInfoInputs.cache
+C:\Users\gab_g\Documents\Projetos\CursoCleanArch\CleanArchMvc.Domain\obj\Debug\net7.0\CleanArchMvc.Domain.AssemblyInfo.cs
+C:\Users\gab_g\Documents\Projetos\CursoCleanArch\CleanArchMvc.Domain\obj\Debug\net7.0\CleanArchMvc.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gab_g\Documents\Projetos\CursoCleanArch\CleanArchMvc.Domain\obj\Debug\net7.0\CleanArchMvc.Domain.dll
+C:\Users\gab_g\Documents\Projetos\CursoCleanArch\CleanArchMvc.Domain\obj\Debug\net7.0\refint\CleanArchMvc.Domain.dll
+C:\Users\gab_g\Documents\Projetos\CursoCleanArch\CleanArchMvc.Domain\obj\Debug\net7.0\CleanArchMvc.Domain.pdb
+C:\Users\gab_g\Documents\Projetos\CursoCleanArch\CleanArchMvc.Domain\obj\Debug\net7.0\ref\CleanArchMvc.Domain.dll
