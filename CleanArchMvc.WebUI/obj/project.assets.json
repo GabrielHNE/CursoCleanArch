@@ -83,19 +83,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gab_g\\.nuget\\packages\\": {}
+    "C:\\Users\\gab_g\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Personal\\CursoCleanArqvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
+      "projectUniqueName": "C:\\Users\\gab_g\\Documents\\Projetos\\CursoCleanArch\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
       "projectName": "CleanArchMvc.WebUI",
-      "projectPath": "E:\\Personal\\CursoCleanArqvc\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
+      "projectPath": "C:\\Users\\gab_g\\Documents\\Projetos\\CursoCleanArch\\CleanArchMvc.WebUI\\CleanArchMvc.WebUI.csproj",
       "packagesPath": "C:\\Users\\gab_g\\.nuget\\packages\\",
-      "outputPath": "E:\\Personal\\CursoCleanArqvc\\CleanArchMvc.WebUI\\obj\\",
+      "outputPath": "C:\\Users\\gab_g\\Documents\\Projetos\\CursoCleanArch\\CleanArchMvc.WebUI\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\gab_g\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -103,15 +108,14 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "E:\\Personal\\CursoCleanArqvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj": {
-              "projectPath": "E:\\Personal\\CursoCleanArqvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj"
+            "C:\\Users\\gab_g\\Documents\\Projetos\\CursoCleanArch\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj": {
+              "projectPath": "C:\\Users\\gab_g\\Documents\\Projetos\\CursoCleanArch\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj"
             }
           }
         }
@@ -144,7 +148,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }

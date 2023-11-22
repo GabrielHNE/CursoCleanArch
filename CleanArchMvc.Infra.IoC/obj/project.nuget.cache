@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "CjNUfSUypCRPuzkA+55kfBWI7I6kEpxc1YvJ66QLLeCm+74H9pQ9Yv/7FmxEVR8Ke2ym8PZMjX57Bld3YFv4/Q==",
+  "dgSpecHash": "bacTz0zX3haVghLumwM61O5Im64pooMY1kTVa2N8E2FdAnoETWNsF02mz2DUMpnnQRv3WfkPESVx8MEb+b+dVg==",
   "success": true,
-  "projectFilePath": "E:\\Personal\\CursoCleanArqvc\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
+  "projectFilePath": "C:\\Users\\gab_g\\Documents\\Projetos\\CursoCleanArch\\CleanArchMvc.Infra.IoC\\CleanArchMvc.Infra.IoC.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
