@@ -6,6 +6,8 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddInfrastructure(builder.Configuration);
 builder.Services.AddControllersWithViews();
 
+// builder.Host.ConfigureWebHostDefaults( webBuilder => webBuilder.UseStartup>)
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
