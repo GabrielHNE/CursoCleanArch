@@ -1,4 +1,5 @@
-﻿using CleanArchMvc.Application.Interfaces;
+﻿using System.Reflection;
+using CleanArchMvc.Application.Interfaces;
 using CleanArchMvc.Application.Mappings;
 using CleanArchMvc.Application.Services;
 using CleanArchMvc.Domain.Interface;
@@ -30,6 +31,11 @@ public static class DependencyInjection
         services.AddScoped<ICategoryService, CategoryService>();
         
         services.AddAutoMapper(typeof(DomainToDTOMappingProfile));
+        services.AddAutoMapper(typeof(DTOToCommandMappingProfile));
+        
+        //docs: https://github.com/jbogard/MediatR
+        var handlers = AppDomain.CurrentDomain.Load("CleanArchMvc.Application");
+        services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(handlers));
         
         return services;
     }
