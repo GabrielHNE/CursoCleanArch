@@ -43,6 +43,6 @@ namespace CleanArchMvc.Application.DTOs
 
         [DisplayName("Categories")]
         public int CategoryId { get; set; }
-        public Category Category { get; set;}
+        public Category? Category { get; set;}
     }
 }
