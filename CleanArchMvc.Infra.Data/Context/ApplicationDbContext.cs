@@ -1,8 +1,11 @@
 ﻿using CleanArchMvc.Domain.Entities;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Identity;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using CleanArchMvc.Infra.Data.Identity;
 
 namespace CleanArchMvc.Infra.Data.Context;
-public class ApplicationDbContext : DbContext
+public class ApplicationDbContext : IdentityDbContext<ApplcationUser>
 {
     public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) 
         : base(options)
