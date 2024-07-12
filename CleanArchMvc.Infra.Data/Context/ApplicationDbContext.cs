@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using CleanArchMvc.Infra.Data.Identity;
 
 namespace CleanArchMvc.Infra.Data.Context;
-public class ApplicationDbContext : IdentityDbContext<ApplcationUser>
+public class ApplicationDbContext : IdentityDbContext<ApplicationUser>
 {
     public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options) 
         : base(options)
