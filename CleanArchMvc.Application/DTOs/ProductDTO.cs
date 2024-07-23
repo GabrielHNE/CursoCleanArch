@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
+using System.Text.Json.Serialization;
 using System.Threading.Tasks;
 using CleanArchMvc.Domain.Entities;
 
@@ -43,6 +44,8 @@ namespace CleanArchMvc.Application.DTOs
 
         [DisplayName("Categories")]
         public int CategoryId { get; set; }
+        
+        [JsonIgnore]
         public Category? Category { get; set;}
     }
 }
