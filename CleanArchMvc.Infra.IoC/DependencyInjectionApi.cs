@@ -33,6 +33,8 @@ public static class DependencyInjectionApi
         
         services.AddScoped<IProductService, ProductService>();
         services.AddScoped<ICategoryService, CategoryService>();
+
+        services.AddScoped<IAuthenticate, AuthenticateService>();
         
         services.AddAutoMapper(typeof(DomainToDTOMappingProfile));
         
