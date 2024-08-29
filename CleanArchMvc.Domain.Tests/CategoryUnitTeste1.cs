@@ -3,7 +3,7 @@ using FluentAssertions;
 
 namespace CleanArchMvc.Domain.Tests;
 
-public class CategoryUnitTest1
+public class CategoryUnitTeste1
 {
     [Fact(DisplayName = "Create Category with valid state")]
     public void CreateCategory_WithValidParameters_ResultObjectValidState()
