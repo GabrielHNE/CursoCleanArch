@@ -14,7 +14,7 @@ Este repositório contém um projeto de exemplo implementando os princípios de 
 
 1. Clone o repositório:
     ```bash
-    git clone [https://github.com/seu-usuario/projeto-clean-architecture.git](https://github.com/GabrielHNE/CursoCleanArch.git)
+    git clone https://github.com/GabrielHNE/CursoCleanArch.git
     ```
 2. Navegue até a pasta do projeto:
     ```bash
